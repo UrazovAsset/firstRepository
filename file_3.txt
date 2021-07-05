@@ -1,1 +1,2 @@
 hello from branch add_feature_1
+line from user2
